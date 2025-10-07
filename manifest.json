@@ -1,0 +1,16 @@
+{
+  "name": "Aprender para Transformar",
+  "description": "Aplicativo educacional dentro do Canva para apoiar o aprendizado e a criatividade.",
+  "homepage_url": "https://seusite.com",
+  "sdk_version": "1.0.0",
+  "default_locale": "pt-BR",
+  "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135755.png",
+  "app_ui": {
+    "main": {
+      "url": "index.html",
+      "height": 400,
+      "width": 300
+    }
+  },
+  "permissions": ["content:read", "content:create"]
+}
